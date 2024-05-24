@@ -1,0 +1,5 @@
+cloudinary:
+  cloud-name: dpr9p0zhr
+  api-key: 531767583912774
+  api-secret: UHhQz9KQ4l9NwFqjTCDwz28QOxI
+  CLOUDINARY_URL: cloudinary://531767583912774:UHhQz9KQ4l9NwFqjTCDwz28QOxI@dpr9p0zhr
